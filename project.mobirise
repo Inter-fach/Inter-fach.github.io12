@@ -45,14 +45,14 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "sitemapSwitcher": true,
-    "siteUrl": "http://Inter-fach.pl/",
-    "sitemapSwitcherAuto": false,
+    "siteUrl": "http://inter-fach.com",
+    "sitemapSwitcherAuto": "on",
     "favicon": false,
-    "mbrsiteDomain": "2lqhhmfoko",
-    "robotsSwitcher": true,
+    "mbrsiteDomain": "jtjv78hyko",
+    "robotsSwitcher": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n"
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
     "Inter fach.html": {
